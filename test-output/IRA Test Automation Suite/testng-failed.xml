@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [IRA Test Automation Suite]" parallel="none">
+  <listeners>
+    <listener class-name="com.core.report_and_listener.Listener"/>
+  </listeners>
+  <test name="Assaignmant test(failed)" parallel="none">
+    <classes>
+      <class name="com.test_classes.AssaignmantPageTest">
+        <methods>
+          <include name="verifyNavigateUrl"/>
+          <include name="test"/>
+          <include name="launchBrowser"/>
+        </methods>
+      </class> <!-- com.test_classes.AssaignmantPageTest -->
+    </classes>
+  </test> <!-- Assaignmant test(failed) -->
+</suite> <!-- Failed suite [IRA Test Automation Suite] -->

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="1" passed="0">
+  <reporter-output>
+  </reporter-output>
+  <suite name="IRA Test Automation Suite" duration-ms="40506" started-at="2020-11-20T13:49:55Z" finished-at="2020-11-20T13:50:35Z">
+    <groups>
+    </groups>
+    <test name="Assaignmant test" duration-ms="40506" started-at="2020-11-20T13:49:55Z" finished-at="2020-11-20T13:50:35Z">
+      <class name="com.test_classes.AssaignmantPageTest">
+        <test-method status="FAIL" signature="test()[pri:0, instance:com.test_classes.AssaignmantPageTest@1e397ed7]" name="test" duration-ms="40488" started-at="2020-11-20T19:19:55Z" finished-at="2020-11-20T19:20:35Z">
+          <exception class="java.lang.NullPointerException">
+            <full-stacktrace>
+              <![CDATA[java.lang.NullPointerException
+	at com.core.report_and_listener.Listener.onTestSuccess(Listener.java:34)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1899)
+	at org.testng.internal.Invoker.runTestListeners(Invoker.java:1879)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:778)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1198)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1123)
+	at org.testng.TestNG.run(TestNG.java:1031)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.NullPointerException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.test_classes.AssaignmantPageTest@1e397ed7]" name="launchBrowser" is-config="true" duration-ms="2901" started-at="2020-11-20T19:19:55Z" finished-at="2020-11-20T19:19:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="verifyNavigateUrl()[pri:0, instance:com.test_classes.AssaignmantPageTest@1e397ed7]" name="verifyNavigateUrl" is-config="true" duration-ms="13214" started-at="2020-11-20T19:19:58Z" finished-at="2020-11-20T19:20:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyNavigateUrl -->
+      </class> <!-- com.test_classes.AssaignmantPageTest -->
+    </test> <!-- Assaignmant test -->
+  </suite> <!-- IRA Test Automation Suite -->
+</testng-results>

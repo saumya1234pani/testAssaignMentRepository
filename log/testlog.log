@@ -1,0 +1,1354 @@
+2020-07-30 01:10:56,231 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-30 01:11:02,456 - com.test_classes.ChatBotEndToEndFlow -INFO - Verify Pop-up message is displayed
+2020-07-30 01:11:02,506 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-30 01:11:02,749 - com.test_classes.ChatBotEndToEndFlow -INFO - Verify Close button is displayed in Pop-up
+2020-07-30 01:11:02,750 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify close Pop-up button is displayed (or) not
+2020-07-30 01:11:02,803 - com.test_classes.ChatBotEndToEndFlow -INFO - Verify text message is displayed
+2020-07-30 01:11:02,804 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify "Chat Agent Show Up" dialogue message is displayed (or) not
+2020-07-30 01:11:02,854 - com.test_classes.ChatBotEndToEndFlow -INFO - Clicking on Pop-up close button
+2020-07-30 01:11:02,855 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on Close pop-up button
+2020-07-30 01:11:02,992 - com.test_classes.ChatBotEndToEndFlow -INFO - Verify Agent Icon is displayed
+2020-07-30 01:11:02,993 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Chat Agent icon button is displayed (or) not
+2020-07-30 01:11:03,042 - com.test_classes.ChatBotEndToEndFlow -INFO - Click on agent icon
+2020-07-30 01:11:03,043 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-30 01:11:03,132 - com.test_classes.ChatBotEndToEndFlow -INFO - Verify Test Agent - IRA home page is displayed
+2020-07-30 01:11:03,135 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-30 01:11:14,773 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 12:18:26,705 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 12:18:30,533 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 12:18:30,550 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 12:18:31,106 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Close button is displaying in Pop-up
+2020-07-31 12:18:31,106 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify close Pop-up button is displayed (or) not
+2020-07-31 12:18:31,143 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying text message is displaying
+2020-07-31 12:18:31,144 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify "Chat Agent Show Up" dialogue message is displayed (or) not
+2020-07-31 12:18:31,177 - com.test_classes.ChatBotEndToEndFlow -INFO - Clicking on Pop-up close button
+2020-07-31 12:18:31,178 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on Close pop-up button
+2020-07-31 12:18:31,224 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Agent Icon button is displaying
+2020-07-31 12:18:31,224 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Chat Agent icon button is displayed (or) not
+2020-07-31 12:18:31,252 - com.test_classes.ChatBotEndToEndFlow -INFO - Click on agent icon button
+2020-07-31 12:18:31,252 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 12:18:31,303 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 12:18:31,305 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 12:18:42,401 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 19:36:26,010 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 19:36:29,683 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 19:36:29,715 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 19:36:31,179 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 19:53:28,366 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 19:53:31,736 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 19:53:31,764 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 19:53:32,412 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 19:53:32,535 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 19:53:32,540 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 19:53:43,534 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 20:05:45,348 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 20:05:49,536 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 20:05:49,566 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 20:05:49,875 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 20:05:49,967 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 20:05:55,923 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 20:08:37,141 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 20:08:41,781 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 20:08:41,811 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 20:08:42,055 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 20:08:42,166 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 20:08:50,088 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 20:56:30,959 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 20:56:34,826 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 20:56:34,855 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 20:56:35,369 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 20:56:35,469 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 20:56:43,402 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 21:00:16,273 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 21:00:21,155 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 21:00:21,185 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:00:21,289 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 21:00:21,379 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 21:00:29,328 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 21:00:59,746 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 21:01:05,075 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 21:01:05,111 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:01:05,230 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 21:01:05,374 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 21:01:18,344 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 21:04:46,240 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 21:04:50,150 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 21:04:50,179 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:04:50,564 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 21:04:50,685 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 21:04:57,792 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:05:08,749 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 21:08:20,882 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 21:08:24,768 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 21:08:24,798 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:08:25,277 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 21:08:25,379 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 21:08:43,342 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 21:13:28,289 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 21:13:32,211 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 21:13:32,243 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:13:32,676 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 21:13:32,771 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 21:13:40,797 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 21:14:32,440 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 21:14:36,476 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 21:14:36,508 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:14:36,932 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 21:14:37,018 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 21:14:44,962 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 21:16:07,432 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 21:16:12,177 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 21:16:12,207 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:16:12,322 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 21:16:12,411 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 21:16:19,530 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-07-31 21:16:25,794 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-07-31 21:37:43,433 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 21:37:47,675 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 21:37:47,729 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:37:47,958 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 21:37:48,196 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-07-31 21:38:03,305 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-07-31 21:39:47,553 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-07-31 21:39:51,839 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-07-31 21:39:51,872 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-07-31 21:39:52,158 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-07-31 21:39:52,261 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 17:45:39,256 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 17:46:15,824 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 17:46:19,967 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 17:46:20,018 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 17:46:21,528 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 17:47:10,816 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 17:47:14,382 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 17:47:14,411 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 17:47:15,168 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 17:47:15,233 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 17:47:17,236 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 17:47:18,078 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 17:47:59,098 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 17:48:02,839 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 17:48:02,859 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 17:48:03,414 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 17:48:03,473 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 17:48:05,478 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 17:48:10,273 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 18:39:01,390 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 18:39:04,650 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 18:39:04,683 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 18:39:05,369 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 18:39:05,440 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 18:39:07,441 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 18:39:07,451 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 18:39:07,539 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 18:39:07,540 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 18:39:11,522 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 18:39:11,646 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "download motor policy" link 
+2020-08-02 18:39:12,947 - com.activities.page_action.IRAChatBoardPageActions -INFO - Entering "Bot Text" text
+2020-08-02 18:39:13,792 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 18:40:52,792 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 18:40:56,005 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 18:40:56,027 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 18:40:56,728 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 18:40:56,872 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 18:40:58,874 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 18:40:58,876 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 18:40:58,927 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 18:40:58,928 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 18:41:02,879 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 18:41:03,033 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "download motor policy" link 
+2020-08-02 18:41:07,302 - com.activities.page_action.IRAChatBoardPageActions -INFO - Entering "Bot Text" text
+2020-08-02 18:41:08,130 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 18:57:23,169 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 18:57:26,480 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 18:57:26,500 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 18:57:27,232 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 18:57:27,320 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 18:57:29,321 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 18:57:29,325 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 18:57:29,472 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 18:57:29,473 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 18:57:33,095 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 18:57:33,244 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "download motor policy" link 
+2020-08-02 18:57:40,489 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 18:58:24,562 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 18:58:27,955 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 18:58:27,980 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 18:58:28,686 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 18:58:28,821 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 18:58:30,822 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 18:58:30,833 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 18:58:30,912 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 18:58:30,913 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 18:58:34,720 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 18:58:34,832 - com.activities.page_action.IRAChatBoardPageActions -INFO - Entering "Bot Text" text
+2020-08-02 18:58:35,622 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:01:01,562 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:01:04,620 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:01:04,647 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:01:05,424 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:01:05,572 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:01:07,574 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:01:07,583 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:01:07,672 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:01:07,673 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:01:11,233 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:01:25,459 - com.activities.page_action.IRAChatBoardPageActions -INFO - Entering "Bot Text" text
+2020-08-02 19:01:55,998 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:01:59,140 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:01:59,160 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:01:59,946 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:02:00,073 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:02:02,074 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:02:02,077 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:02:02,130 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:02:02,131 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:02:05,940 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:02:06,871 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:07:28,838 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:07:32,011 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:07:32,027 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:07:32,780 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:07:32,864 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:07:34,864 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:07:34,866 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:07:35,678 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:08:03,625 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:08:06,759 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:08:06,783 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:08:07,560 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:08:07,718 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:08:11,719 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:08:11,721 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:08:11,767 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:08:11,768 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:08:15,611 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:08:15,792 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:08:23,612 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:11:13,555 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:11:17,335 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:11:17,367 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:11:18,056 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:11:18,156 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:11:22,158 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:11:22,165 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:11:22,245 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:11:22,246 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:11:26,115 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:11:26,248 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:14:57,749 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:15:01,653 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:15:01,680 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:15:02,024 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:15:02,107 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:15:06,108 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:15:06,111 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:15:06,990 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:15:24,386 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:15:27,750 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:15:27,777 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:15:28,557 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:15:28,654 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:15:32,655 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:15:32,658 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:15:32,709 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:15:32,710 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:15:36,455 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:15:36,611 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:15:43,767 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 19:15:45,882 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 19:15:46,679 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:20:22,305 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:20:25,497 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:20:25,520 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:20:26,223 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:20:26,373 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:20:30,375 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:20:30,378 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:20:30,450 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:20:30,451 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:20:35,099 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:20:35,265 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:20:42,466 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 19:20:44,567 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 19:20:44,715 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-02 19:20:44,832 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-02 19:20:44,928 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-02 19:20:44,930 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Star" for giving rating
+2020-08-02 19:20:45,703 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:22:11,984 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:22:15,244 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:22:15,276 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:22:15,992 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:22:16,084 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:22:20,085 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:22:20,087 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:22:20,137 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:22:20,138 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:22:23,650 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:22:23,761 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:22:30,998 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 19:22:47,683 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 19:22:51,000 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-02 19:22:51,333 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-02 19:22:51,633 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-02 19:22:51,974 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Star" for giving rating
+2020-08-02 19:29:39,894 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:29:43,749 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:29:43,842 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:29:44,318 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:29:44,573 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:29:48,577 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:29:48,584 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:29:48,732 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:29:48,734 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:29:53,248 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:29:53,697 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:30:01,152 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 19:30:03,483 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 19:30:03,765 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-02 19:30:04,130 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-02 19:30:04,399 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-02 19:30:05,298 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Star" for giving rating
+2020-08-02 19:30:06,711 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:34:32,566 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:34:36,003 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:34:36,032 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:34:36,766 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:34:36,919 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:34:40,921 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:34:40,924 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:34:40,985 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:34:40,986 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:34:45,646 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:34:45,781 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:34:52,984 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 19:34:55,135 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 19:34:55,319 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-02 19:34:55,460 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-02 19:34:55,570 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-02 19:34:56,068 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Star" for giving rating
+2020-08-02 19:35:03,916 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:36:01,011 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:36:04,236 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:36:04,260 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:36:05,057 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:36:05,185 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:36:09,185 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:36:09,188 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:36:09,240 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:36:09,241 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:36:13,022 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:36:13,144 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:36:20,336 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 19:36:22,451 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 19:36:22,630 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-02 19:36:22,772 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-02 19:36:22,873 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-02 19:36:23,392 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Submit" button
+2020-08-02 19:36:24,262 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 19:38:46,765 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:38:50,014 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:38:50,037 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:38:50,715 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:38:50,808 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:38:54,810 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:38:54,817 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:38:54,897 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:38:54,898 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:38:58,580 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:38:58,708 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:39:05,965 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 19:41:48,110 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 19:41:48,253 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-02 19:41:48,421 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-02 19:41:48,528 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-02 19:42:02,884 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Submit" button
+2020-08-02 19:49:45,966 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 19:49:50,043 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 19:49:50,141 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:49:50,584 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 19:49:50,850 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 19:49:54,852 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 19:49:54,860 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 19:49:55,025 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 19:49:55,027 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 19:49:59,158 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 19:49:59,770 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 19:50:07,355 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 19:50:09,764 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 19:50:10,254 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-02 19:50:10,775 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-02 19:50:11,197 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-02 19:50:12,163 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Star" for giving rating
+2020-08-02 19:50:12,392 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Submit" button
+2020-08-02 19:50:15,174 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 22:32:34,287 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 22:32:38,517 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 22:32:38,533 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:32:39,196 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 22:32:39,381 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 22:32:43,382 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 22:32:43,389 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:32:43,518 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 22:32:43,520 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 22:32:52,264 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 22:32:52,519 - com.activities.page_action.IRAChatBoardPageActions -INFO - Entering "New Test" text
+2020-08-02 22:32:54,707 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Google" link
+2020-08-02 22:33:01,029 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 22:34:12,202 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 22:34:16,146 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 22:34:16,163 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:34:16,388 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 22:34:16,450 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 22:34:20,451 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 22:34:20,454 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:34:20,520 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 22:34:20,520 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 22:34:24,354 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 22:34:24,656 - com.activities.page_action.IRAChatBoardPageActions -INFO - Entering "New Test" text
+2020-08-02 22:34:27,184 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Google" link
+2020-08-02 22:34:27,437 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Call" link
+2020-08-02 22:34:29,716 - com.activities.page_action.IRAChatBoardPageActions -INFO - Verify "Test Agent - IRA" header is displayed
+2020-08-02 22:34:30,457 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 22:42:14,473 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 22:42:18,029 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 22:42:18,049 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:42:18,869 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 22:42:18,938 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 22:42:22,940 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 22:42:22,950 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:42:23,080 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 22:42:23,081 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 22:42:28,327 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 22:42:28,570 - com.activities.page_action.IRAChatBoardPageActions -INFO - Entering "New Test" text
+2020-08-02 22:42:31,078 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Google" link
+2020-08-02 22:42:31,408 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Call" link
+2020-08-02 22:42:34,510 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 22:42:34,518 - TestBase -INFO - driver initialized started
+2020-08-02 22:42:40,557 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 22:42:43,804 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 22:42:43,805 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:42:44,677 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 22:42:44,807 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 22:42:46,808 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 22:42:46,809 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:42:46,911 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 22:42:46,911 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 22:42:51,567 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 22:42:51,852 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "download motor policy" link 
+2020-08-02 22:42:59,385 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 22:42:59,388 - TestBase -INFO - driver initialized started
+2020-08-02 22:43:04,935 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 22:43:08,110 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 22:43:08,112 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:43:08,970 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 22:43:09,147 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 22:43:13,149 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 22:43:13,150 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:43:13,231 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 22:43:13,232 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 22:43:17,521 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 22:43:17,906 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 22:43:25,329 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 22:43:27,604 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 22:43:27,875 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-02 22:43:28,226 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-02 22:43:28,504 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-02 22:43:29,335 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Star" for giving rating
+2020-08-02 22:43:29,647 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Submit" button
+2020-08-02 22:43:31,838 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 22:54:07,105 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 22:54:11,037 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 22:54:11,065 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:54:11,302 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 22:54:11,412 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 22:54:15,414 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 22:54:15,416 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:54:15,451 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 22:54:15,453 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 22:54:19,997 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 22:54:20,233 - com.activities.page_action.IRAChatBoardPageActions -INFO - Entering "New Test" text
+2020-08-02 22:54:22,713 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Google" link
+2020-08-02 22:54:23,117 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Call" link
+2020-08-02 22:54:26,366 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 22:54:26,374 - TestBase -INFO - driver initialized started
+2020-08-02 22:54:32,399 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 22:54:35,802 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 22:54:35,804 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:54:36,709 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 22:54:36,795 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 22:54:38,797 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 22:54:38,798 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:54:38,841 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 22:54:38,842 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 22:54:43,307 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 22:54:43,580 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "download motor policy" link 
+2020-08-02 22:54:50,962 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 22:54:50,965 - TestBase -INFO - driver initialized started
+2020-08-02 22:54:56,841 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 22:55:00,329 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 22:55:00,333 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:55:01,253 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 22:55:01,335 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 22:55:05,335 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 22:55:05,335 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 22:55:05,373 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 22:55:05,374 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 22:55:12,049 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 22:55:12,440 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-02 22:55:19,858 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-02 22:55:22,093 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-02 22:55:22,345 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-02 22:55:22,506 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-02 22:55:22,655 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-02 22:55:23,372 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Star" for giving rating
+2020-08-02 22:55:23,659 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Submit" button
+2020-08-02 22:55:25,865 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 23:21:58,483 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 23:22:01,710 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 23:22:01,728 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 23:22:02,374 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 23:22:02,494 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 23:22:04,495 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 23:22:04,502 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 23:22:04,611 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 23:22:04,613 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 23:22:08,850 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 23:22:09,102 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "download motor policy" link 
+2020-08-02 23:22:16,788 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-02 23:29:55,581 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-02 23:29:59,269 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-02 23:29:59,287 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 23:29:59,983 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-02 23:30:00,051 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-02 23:30:02,052 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-02 23:30:02,061 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-02 23:30:02,196 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-02 23:30:02,198 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-02 23:30:06,411 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-02 23:30:06,714 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "download motor policy" link 
+2020-08-02 23:30:14,838 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-03 00:00:05,806 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-03 00:00:09,200 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-03 00:00:09,269 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-03 00:00:09,900 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-03 00:00:10,017 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-03 00:00:12,018 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-03 00:00:12,023 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-03 00:00:12,082 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-03 00:00:12,082 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-03 00:00:15,827 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-03 00:00:16,021 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "download motor policy" link 
+2020-08-03 00:00:23,521 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-03 00:00:23,527 - TestBase -INFO - driver initialized started
+2020-08-03 00:00:29,288 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-03 00:00:32,419 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-03 00:00:32,420 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-03 00:00:33,332 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-03 00:00:33,408 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-03 00:00:37,410 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-03 00:00:37,410 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-03 00:00:37,463 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-03 00:00:37,463 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-03 00:00:41,742 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Start Over" button 
+2020-08-03 00:00:41,979 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-03 00:00:49,239 - com.activities.page_action.IRAChatBoardPageActions -INFO - Tap on "Send" button
+2020-08-03 00:00:51,395 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Full Name" in text-box
+2020-08-03 00:00:51,620 - com.activities.page_action.AgentResponseMessagesActions -INFO - Entering "Address" in text-box
+2020-08-03 00:00:51,790 - com.activities.page_action.AgentResponseMessagesActions -INFO - Slecting "gender" type
+2020-08-03 00:00:51,958 - com.activities.page_action.AgentResponseMessagesActions -INFO - Selecting options i.e. "Rarely / Very Often" from dropdown
+2020-08-03 00:00:52,591 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Star" for giving rating
+2020-08-03 00:00:52,737 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Submit" button
+2020-08-03 00:00:54,763 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-08-03 00:00:54,766 - TestBase -INFO - driver initialized started
+2020-08-03 00:01:00,578 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-08-03 00:01:03,755 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Pop-up message is displaying
+2020-08-03 00:01:03,755 - com.activities.page_verifications.AvaamoHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-03 00:01:04,630 - com.activities.page_action.AvaamoHomePageActions -INFO - Tap on IRA Agent Icon button
+2020-08-03 00:01:04,772 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Test Agent - IRA home page is displaying
+2020-08-03 00:01:08,773 - com.test_classes.ChatBotEndToEndFlow -INFO - Verifying Hello and welcome to IRA agent message text is displaying
+2020-08-03 00:01:08,773 - com.activities.page_verifications.IRATestAgentHomePageVerifications -INFO - Verify Pop-up message is displayed (or) not
+2020-08-03 00:01:08,847 - com.test_classes.ChatBotEndToEndFlow -INFO - click on get started button
+2020-08-03 00:01:08,848 - com.activities.page_action.IRATestAgentHomePageActions -INFO - Tap on "Get Started" button
+2020-08-03 00:01:14,590 - com.activities.page_action.IRAChatBoardPageActions -INFO - click "Keyboard" icon 
+2020-08-03 00:01:14,752 - com.activities.page_action.IRAChatBoardPageActions -INFO - Entering "New Test" text
+2020-08-03 00:01:16,969 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Google" link
+2020-08-03 00:01:17,307 - com.activities.page_action.AgentResponseMessagesActions -INFO - Tab on "Call" link
+2020-08-03 00:01:20,620 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 15:59:31,870 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 15:59:36,539 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:00:59,376 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:01:03,053 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:02:06,298 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:02:09,490 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:04:03,958 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:04:06,070 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:05:26,309 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:05:29,139 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:05:59,353 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:06:01,316 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:06:01,318 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:06:03,835 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:06:03,836 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:06:04,426 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:06:04,427 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:06:05,125 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:06:15,531 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:08:33,451 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:08:35,075 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:08:35,076 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:08:35,878 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:08:35,878 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:08:36,211 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:08:36,212 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:08:36,572 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:08:46,896 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:12:55,038 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:12:56,248 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:12:56,249 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:12:57,336 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:12:57,337 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:12:57,601 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:12:57,601 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:12:57,829 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:13:08,157 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:14:17,386 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:14:18,584 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:14:18,585 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:14:19,600 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:14:19,601 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:14:19,930 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:14:19,932 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:14:22,205 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:14:32,447 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:19:36,090 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:19:37,804 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:19:37,805 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:19:38,408 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:19:38,408 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:19:38,787 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:19:38,788 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:19:40,959 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:19:41,882 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:19:41,882 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:19:52,163 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:22:20,451 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:22:21,923 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:22:21,924 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:22:22,526 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:22:22,536 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:22:22,829 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:22:22,829 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:22:25,036 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:22:25,656 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:22:25,656 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:22:36,057 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:24:05,557 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:24:07,030 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:24:07,032 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:24:07,720 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:24:07,721 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:24:08,013 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:24:08,014 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:24:10,225 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:24:12,557 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:24:14,558 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:24:24,869 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:25:58,392 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:25:59,734 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:25:59,735 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:26:00,927 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:26:00,929 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:26:01,270 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:26:01,270 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:26:01,570 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:26:04,175 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:26:06,179 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:26:16,475 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:26:38,673 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:26:39,731 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:26:39,732 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:26:40,783 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:26:40,784 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:26:41,087 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:26:41,087 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:26:41,291 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:26:43,869 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:26:45,873 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:26:56,199 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:27:42,259 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:27:54,014 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:28:03,951 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:28:04,175 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:28:16,808 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:28:17,045 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:28:28,186 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:28:34,116 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:30:05,652 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:30:19,875 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:30:30,597 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:30:58,740 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:31:07,618 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:31:09,954 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:31:10,215 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:31:12,343 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:31:12,613 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:31:14,453 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:31:20,764 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:31:36,903 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:31:53,031 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:32:03,301 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:33:42,935 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:33:44,194 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:33:44,195 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:33:45,251 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:33:45,252 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:33:45,523 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:33:45,524 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:33:45,862 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:33:48,409 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:33:50,413 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:34:00,735 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:34:49,733 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:34:50,891 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:34:50,891 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:34:51,688 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:34:51,690 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:34:52,094 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:34:52,095 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:34:52,344 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:34:52,986 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:34:52,986 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:35:03,256 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:35:49,375 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:35:50,942 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:35:50,947 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:35:52,055 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:35:52,056 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:35:52,741 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:35:52,742 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:35:53,339 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:35:54,095 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:36:04,808 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:36:34,550 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:36:36,919 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:36:36,921 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:36:39,958 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:36:39,959 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:36:40,557 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:36:40,558 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:36:41,738 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:36:52,291 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:36:53,939 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:37:59,369 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:38:01,429 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:38:01,432 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:38:03,955 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:38:03,956 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:38:04,228 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:38:04,230 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:38:04,450 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:38:14,855 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:38:25,050 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:38:35,425 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:38:37,055 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:38:37,055 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:38:38,339 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:38:38,341 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:38:38,729 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:38:38,730 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:38:39,210 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:38:49,593 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:38:49,593 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:38:59,851 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:39:19,541 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:39:20,789 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:39:20,790 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:39:21,826 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:39:21,827 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:39:22,103 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:39:22,104 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:39:22,302 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:39:32,728 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:39:32,728 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:39:43,016 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:40:26,167 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:40:27,646 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:40:27,647 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:40:28,585 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:40:28,587 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:40:28,919 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:40:28,920 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:40:29,126 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:40:39,592 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:40:42,091 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:41:07,335 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:41:08,993 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:41:08,994 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:41:10,093 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:41:10,094 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:41:10,401 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:41:10,401 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:41:10,637 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:41:20,960 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:41:23,366 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:42:23,972 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:42:25,427 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:42:25,427 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:42:25,884 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:42:25,885 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:42:26,370 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:42:26,371 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:42:26,559 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:42:36,957 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:42:47,484 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:43:26,034 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:43:27,944 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:43:27,945 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:43:28,971 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:43:28,972 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:43:29,279 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:43:29,280 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:43:29,493 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:43:39,913 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:43:39,914 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:43:50,192 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:44:08,548 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:44:10,123 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:44:10,124 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:44:10,980 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:44:10,980 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:44:11,248 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:44:11,249 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:44:11,487 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:44:21,925 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:44:32,534 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:45:45,682 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:45:46,984 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:45:46,985 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:45:48,007 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:45:48,008 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:45:48,145 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:45:48,147 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:45:48,424 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:45:58,867 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:46:09,562 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:48:06,221 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:48:07,563 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:48:07,563 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:48:08,440 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:48:08,441 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:48:08,820 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:48:08,821 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:48:09,046 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:48:19,629 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:48:19,631 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:48:30,006 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:48:41,241 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:48:43,939 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:48:43,939 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:48:44,596 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:48:44,597 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:48:45,040 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:48:45,041 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:48:45,341 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:48:55,647 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:48:55,648 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:49:05,938 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:51:15,194 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:51:16,705 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:51:16,706 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:51:18,210 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:51:18,210 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:51:19,593 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:51:19,593 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:51:19,872 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:51:30,270 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:51:30,271 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:51:53,236 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:51:55,233 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:51:55,234 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:51:58,030 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:51:58,031 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:51:59,680 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:51:59,680 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:51:59,998 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:52:10,480 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:52:10,481 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:52:18,554 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 16:54:25,607 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 16:54:26,752 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 16:54:26,752 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:54:29,714 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 16:54:29,715 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 16:54:32,202 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 16:54:32,203 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 16:54:32,468 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:54:42,868 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 16:54:42,869 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 16:54:53,133 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:05:50,311 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:05:53,201 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:05:53,202 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:05:55,749 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:05:55,749 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:05:58,077 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:05:58,079 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:05:58,321 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:06:08,665 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:06:08,669 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:06:18,971 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:23:10,276 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:23:12,028 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:23:12,028 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:23:14,521 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:23:14,522 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:23:16,907 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:23:16,908 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:23:17,117 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:23:27,474 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:23:27,476 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:23:38,174 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:32:41,152 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:32:55,115 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:32:55,117 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:32:59,612 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:32:59,613 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:33:03,885 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:33:03,886 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:33:04,121 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:33:04,782 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:33:04,782 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:34:03,355 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:35:52,694 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:35:55,066 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:35:55,067 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:35:59,710 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:35:59,710 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:36:03,836 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:36:03,836 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:36:03,993 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:36:04,275 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:36:04,276 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:36:12,296 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:36:26,008 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:36:28,017 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:36:28,017 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:36:32,527 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:36:32,528 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:36:36,931 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:36:36,932 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:36:37,188 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:36:37,546 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:36:37,547 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:41:33,328 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:41:54,035 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:41:54,037 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:41:58,617 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:41:58,618 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:42:02,925 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:42:02,930 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:42:03,132 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:42:03,603 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:42:03,604 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:42:34,685 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:43:49,252 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:44:05,115 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:44:05,116 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:44:09,700 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:44:09,701 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:44:13,881 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:44:13,881 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:44:13,997 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:44:14,326 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:44:14,326 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:44:26,103 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:44:44,867 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:44:59,223 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:44:59,223 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:45:03,555 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:45:03,556 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:45:07,876 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:45:07,876 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:45:08,067 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:45:08,541 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:45:08,542 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:45:23,946 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:45:32,341 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:45:46,339 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:45:46,340 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:45:50,573 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:45:50,573 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:45:54,772 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:45:54,775 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:45:55,046 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:45:55,446 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:45:55,447 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:46:32,262 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:46:56,250 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:47:13,828 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:47:13,831 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:47:18,217 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:47:18,218 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:47:22,553 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:47:22,554 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:47:22,794 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:47:23,345 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:47:23,345 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:47:48,610 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:48:03,340 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:48:05,502 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:48:05,503 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:48:09,960 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:48:09,961 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:48:14,195 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:48:14,195 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:48:14,434 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:48:14,822 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:48:14,823 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:48:45,667 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:49:01,856 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:49:14,729 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:49:14,729 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:49:19,079 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:49:19,080 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:49:23,352 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:49:23,353 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:49:23,459 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:49:23,872 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:49:23,872 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:51:32,758 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:51:47,775 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:51:47,776 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:51:52,094 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:51:52,095 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:51:56,433 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:51:56,437 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:51:56,659 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:51:57,072 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:51:57,073 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:52:04,912 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:53:08,852 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:53:22,978 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:53:22,979 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:53:27,312 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:53:27,313 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:53:31,537 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:53:31,537 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:53:31,705 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:53:32,094 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:53:32,095 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:53:53,711 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:54:28,112 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:54:41,399 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:54:41,400 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:54:45,726 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:54:45,727 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:54:49,953 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:54:49,953 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:54:50,173 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:54:50,507 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:54:50,507 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:55:21,305 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 17:55:55,370 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 17:56:15,938 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 17:56:15,938 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:56:20,241 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 17:56:20,242 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 17:56:24,483 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 17:56:24,484 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 17:56:24,634 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:56:25,032 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 17:56:25,032 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 17:56:47,459 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:00:58,138 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:01:26,828 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:01:26,829 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:01:31,182 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:01:31,183 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:01:35,481 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:01:35,483 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:01:35,713 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:01:36,147 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:01:36,147 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:03:21,017 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:04:06,756 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:04:06,762 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:04:11,072 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:04:11,073 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:04:15,261 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:04:15,262 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:04:15,386 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:04:15,710 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:04:15,711 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:07:53,867 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:08:08,530 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:08:08,532 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:08:12,949 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:08:12,951 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:08:17,360 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:08:17,360 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:08:17,623 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:08:18,181 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:08:18,181 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:08:26,102 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:09:45,407 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:09:56,996 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:09:56,996 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:10:01,340 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:10:01,341 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:10:05,662 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:10:05,662 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:10:05,907 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:10:06,322 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:10:06,323 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:13:38,910 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:14:06,937 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:14:06,938 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:14:11,249 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:14:11,250 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:14:15,463 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:14:15,464 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:14:15,675 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:14:16,063 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:14:16,064 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:14:19,754 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:16:35,374 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:16:49,045 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:16:49,046 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:16:53,332 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:16:53,333 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:16:57,524 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:16:57,526 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:16:57,731 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:16:58,061 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:16:58,061 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:17:23,057 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:19:15,617 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:19:37,720 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:19:37,720 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:19:42,009 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:19:42,010 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:19:46,213 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:19:46,214 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:19:46,355 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:19:46,692 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:19:46,693 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:24:52,316 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:25:14,483 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:25:14,483 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:25:18,869 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:25:18,870 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:25:23,151 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:25:23,152 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:25:23,374 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:25:23,790 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:25:23,791 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:26:44,011 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:26:57,378 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:26:57,378 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:27:01,791 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:27:01,793 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:27:06,005 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:27:06,005 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:27:06,224 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:27:06,595 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:27:06,596 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:28:04,705 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:28:30,524 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:28:30,525 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:28:34,792 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:28:34,793 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:28:39,079 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:28:39,079 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:28:39,224 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:28:39,692 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:28:39,693 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:28:44,078 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:29:05,972 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:29:30,679 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:29:30,680 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:29:34,975 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:29:34,976 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:29:39,229 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:29:39,230 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:29:39,473 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:29:39,868 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:29:39,868 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:30:50,935 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:31:21,753 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:31:21,753 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:31:26,126 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:31:26,126 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:31:30,357 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:31:30,358 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:31:30,572 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:31:31,058 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:31:31,059 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:31:36,158 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:32:13,306 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:33:03,965 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:33:27,819 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:33:48,379 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:34:19,736 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:34:33,736 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:36:24,235 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:36:35,819 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:37:55,988 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:38:07,669 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:39:07,002 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:39:18,943 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:39:42,937 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:39:56,978 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:41:36,670 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:41:58,830 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:44:34,404 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:44:48,741 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:45:24,081 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:45:36,731 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:46:22,512 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:46:35,476 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:47:43,725 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:48:01,822 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:48:01,822 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:48:06,055 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:48:06,055 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:48:10,227 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:48:10,227 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:48:10,432 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:48:10,779 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:48:10,779 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:48:24,127 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 18:49:58,831 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:50:17,807 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:50:17,808 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:50:22,199 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:50:22,200 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:50:26,408 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:50:26,408 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:50:26,615 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:50:27,002 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:50:27,003 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:52:44,951 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:52:57,380 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:52:57,380 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:53:01,685 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:53:01,686 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:53:05,907 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:53:05,908 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:53:06,133 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:53:06,416 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:53:06,416 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:54:14,990 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:54:28,794 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:54:28,795 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:54:33,162 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:54:33,162 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:54:37,571 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:54:37,573 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:54:37,809 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:54:38,271 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 18:54:38,272 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:57:20,708 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 18:57:41,351 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 18:57:41,353 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:57:45,737 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 18:57:45,738 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 18:57:50,018 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 18:57:50,019 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 18:57:50,240 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 18:57:51,771 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 19:01:04,737 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:01:16,448 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 19:01:16,451 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:01:20,814 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 19:01:20,815 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 19:01:25,127 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 19:01:25,128 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 19:01:25,415 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:01:25,850 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 19:01:25,851 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:07:13,912 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:07:29,214 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 19:07:29,216 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:07:33,501 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 19:07:33,501 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 19:07:37,711 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 19:07:37,712 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 19:07:37,870 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:07:38,209 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 19:07:38,209 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:08:56,759 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:09:17,332 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 19:09:17,332 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:09:21,700 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 19:09:21,701 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 19:09:26,038 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 19:09:26,039 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 19:09:26,245 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:09:26,623 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 19:09:26,624 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:12:24,046 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:12:35,806 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 19:12:35,807 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:12:40,147 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 19:12:40,148 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 19:12:44,486 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 19:12:44,486 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 19:12:44,694 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:12:45,191 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 19:12:45,192 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:12:54,112 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 19:13:38,655 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:13:52,545 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 19:13:52,547 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:13:56,901 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 19:13:56,902 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 19:14:01,262 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 19:14:01,263 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 19:14:01,515 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:14:01,935 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 19:14:01,936 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:15:31,900 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:15:52,407 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 19:15:52,407 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:15:56,719 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 19:15:56,722 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 19:16:01,074 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 19:16:01,075 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 19:16:01,397 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:16:01,815 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 19:16:01,815 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:16:11,753 - com.core.utility.CommonActionUtils -INFO - browser closed successfully
+2020-11-20 19:16:51,572 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:17:04,560 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 19:17:04,561 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:17:08,904 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 19:17:08,905 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 19:17:13,202 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 19:17:13,203 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 19:17:13,446 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:17:13,863 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 19:17:13,863 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:18:24,716 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:18:37,054 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 19:18:37,055 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:18:41,359 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 19:18:41,360 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 19:18:45,588 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 19:18:45,589 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 19:18:45,783 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:18:46,262 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 19:18:46,263 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:19:38,951 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:19:58,410 - com.core.utility.CommonActionUtils -INFO - navigated to respective url
+2020-11-20 19:20:11,708 - com.test_classes.AssaignmantPageTest -INFO - Page Title verified
+2020-11-20 19:20:11,709 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:20:16,041 - com.activities.page_action.IxigoHomePageAction -INFO - fromCityName selected
+2020-11-20 19:20:16,042 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName Clicked
+2020-11-20 19:20:20,347 - com.activities.page_action.IxigoHomePageAction -INFO - toCityName selected
+2020-11-20 19:20:20,348 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the departure field
+2020-11-20 19:20:20,588 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField
+2020-11-20 19:20:20,992 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the return Button
+2020-11-20 19:20:20,992 - com.activities.page_action.IxigoHomePageAction -INFO - Click on the FromField

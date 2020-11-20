@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5fca6bce-13b9-44b6-bcc7-bc4e8d2dccf0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="avaamo_automation_assignment" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fRPZ9SqaHB8fDooqimrFt7dG0f" />
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.core.report_and_listener" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\avaamo_automation_assignment\src\main\resources" />
+      <recent name="D:\avaamo_automation_assignment\src\main\java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.D:/biswa.mishra/My Downloads/avaamo_automation_assignment/testNG.xml">
+    <configuration name="ChatBotEndToEndFlow.verifyChatBotdownloadMotorPolicy" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="avaamo_automation_assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test_classes" />
+      <option name="MAIN_CLASS_NAME" value="com.test_classes.ChatBotEndToEndFlow" />
+      <option name="METHOD_NAME" value="verifyChatBotdownloadMotorPolicy" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatBotEndToEndFlow.verifyNewTestFunctionality" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="avaamo_automation_assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test_classes" />
+      <option name="MAIN_CLASS_NAME" value="com.test_classes.ChatBotEndToEndFlow" />
+      <option name="METHOD_NAME" value="verifyNewTestFunctionality" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatBotEndToEndFlow.verifyTestbotForm (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="avaamo_automation_assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test_classes" />
+      <option name="MAIN_CLASS_NAME" value="com.test_classes.ChatBotEndToEndFlow" />
+      <option name="METHOD_NAME" value="verifyTestbotForm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChatBotEndToEndFlow.verifyTestbotForm" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="avaamo_automation_assignment" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.test_classes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.test_classes" />
+      <option name="MAIN_CLASS_NAME" value="com.test_classes.ChatBotEndToEndFlow" />
+      <option name="METHOD_NAME" value="verifyTestbotForm" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="D:/biswa.mishra/My Downloads/avaamo_automation_assignment/testNG.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="avaamo_automation_assignment" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testNG.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.D:/biswa.mishra/My Downloads/avaamo_automation_assignment/testNG.xml" />
+        <item itemvalue="TestNG.ChatBotEndToEndFlow.verifyNewTestFunctionality" />
+        <item itemvalue="TestNG.ChatBotEndToEndFlow.verifyTestbotForm (1)" />
+        <item itemvalue="TestNG.ChatBotEndToEndFlow.verifyTestbotForm" />
+        <item itemvalue="TestNG.ChatBotEndToEndFlow.verifyChatBotdownloadMotorPolicy" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fca6bce-13b9-44b6-bcc7-bc4e8d2dccf0" name="Default Changelist" comment="" />
+      <created>1595880649379</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1595880649379</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="811" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1596178035075">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="811" y="413" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596178035075" />
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom" timestamp="1596393345637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596393345637" />
+    <state width="1877" height="348" key="GridCell.Tab.0.center" timestamp="1596393345637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596393345637" />
+    <state width="1877" height="348" key="GridCell.Tab.0.left" timestamp="1596393345636">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596393345636" />
+    <state width="1877" height="348" key="GridCell.Tab.0.right" timestamp="1596393345637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596393345637" />
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom" timestamp="1596393345638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596393345638" />
+    <state width="1877" height="348" key="GridCell.Tab.1.center" timestamp="1596393345638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596393345638" />
+    <state width="1877" height="348" key="GridCell.Tab.1.left" timestamp="1596393345638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596393345638" />
+    <state width="1877" height="348" key="GridCell.Tab.1.right" timestamp="1596393345638">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596393345638" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1596204792614">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1596204792614" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/activities/page_verifications/AgentResponseMessagesVerifications.java</url>
+          <line>356</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test_classes/ChatBotEndToEndFlow.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/test_classes/ChatBotEndToEndFlow.java</url>
+          <line>136</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/activities/page_action/AgentResponseMessagesActions.java</url>
+          <line>175</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
